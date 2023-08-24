@@ -25,3 +25,5 @@
   <a href="www.linkedin.com/in/william-teuschel-klein-15863020b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=William-Klein7&bg_color=transparent&color=001eff&line=00ffee&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
