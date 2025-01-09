@@ -1,8 +1,7 @@
 ## Olá! Sou William Klein
 
-- 🔭 Hoje sou Desenvolvedor Front-End
+- 🔭 Sou Desenvolvedor Front-End
 - 🌱 Estudo Ciência da Computação na URI Santo Ângelo
-- 😄 Pronomes: ele/dele
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Klein7&show_icons=true&theme=transparent"/>
